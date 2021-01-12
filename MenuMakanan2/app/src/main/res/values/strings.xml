@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Makan Apa</string>
+    <string name="input">Input Some Text</string>
+    <string name="button">Click Me!</string>
+    <string name="right_text">This is Right Fragment</string>
+    <string name="second_fragment_text">This is Second Fragment</string>
+    <string name="home_text">Home</string>
+    <string name="page2_text">Cari</string>
+    <string name="exit_text">Exit</string>
+    <string name="openDrawer">open</string>
+
+    <string name="closeDrawer">close</string>
+    <string name="menu">Menu</string>
+    <string name="Setting">Setting</string>
+
+</resources>
